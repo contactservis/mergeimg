@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    min-height: 90vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+footer {
+    min-height: 10vh;
+}
+
+#preloader {
+	display: none;
+}
